@@ -1,0 +1,229 @@
+/* navbar start */
+#navbar{
+    background-color:white !important;
+    height: 60px;
+  }
+  #logo>img{
+    height: 40px;
+    width: 200px;
+    position: relative;
+    left: 30px;
+  }
+  #nav-data{
+    font-size: 13px;
+    color:rgb(34, 33, 33);
+    background-color: white;
+    margin-right: 20px;
+    margin-top: 5px 0px;
+    
+  }
+  .nav-item>a:focus{
+    color: #8DC63F !important;
+  }
+  .dropdown-toggler{
+    font-weight: bold;
+    font-size: 14px;
+    color:rgb(34, 33, 33);
+  }
+  .dropdown:hover .dropdown-menu{
+    display: block;
+    border-top: 4px #8DC63F solid;
+    border-radius: 0px;
+  }
+  .nav-link:hover{
+    color: #8DC63F !important;
+  }
+  .dropdown-menu>li>a{
+    font-size: 17px;
+    line-height: 30px;
+  }
+  .dropdown-menu>li>a:hover{
+    color: #8DC63F;
+    font-family: sans-serif;
+  }
+  .active-nav:hover{
+    color: #8DC63F !important;
+  }  
+  /* pages header except home page */
+  *{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    color: gray;
+}
+.top-section{
+    background-color: #252634;
+    height: 50px;
+}
+.top-icon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+.top-icon>div>a>img:hover{
+    background-color: #8DC63F;
+}
+.top-icon>div>a>img{
+    margin: 0px 5px;
+    width: 20px;
+    background-color: rgb(77, 76, 76);
+}
+
+#header{
+    background-image: url(../images/page-title-background.4d5dbca0.jpg);
+    height: 198px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#header-data>h1{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0;
+}
+.head-footer{
+    height: 50px;
+    background-color: #eaeaea;
+}
+#nav-data{
+    font-size: 17px !important;
+}
+.head-footer-data{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.head-footer-data>button>a{
+    border: none;
+    text-decoration: none;
+    color: gray;
+}
+.head-footer-data>button{
+    border: none;
+    background: none;
+    margin: 10px 5px;
+    color: gray;
+}
+@media only screen and (max-width: 1200px) {
+    .head-footer-data{
+     display: flex;
+    justify-content: flex-start;
+    flex: 1;
+    }
+  }
+@media only screen and (max-width: 400px) {
+    .head-footer-data{
+    width: 100%;
+    }
+  }
+.head-footer-data-icon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #eaeaea;
+
+}
+.head-footer-data-icon>div>a>img:hover{
+    background-color: #8DC63F;
+}
+.head-footer-data-icon>div>a{
+    margin: 0px 5px;
+    width: 20px;
+  color: gray;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+@media only screen and (max-width: 1200px) {
+    .head-footer-data-icon{
+     display: flex;
+    justify-content: flex-start;
+    }
+  }
+
+  /* footer start */
+  
+  #footer{
+    background-color: #252634;
+    color: white;
+    font-size: 12px;
+   border: 2px #252634 solid;
+   margin-top: 30px;
+   border-top-color: #8DC63F;
+   }
+  .footer-data-1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+
+  }
+  .footer-data-1-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer-data-1-1>div>img{
+    height: 14px;
+    margin-right: 10px;
+  }
+  .footer-middle{
+    display: flex;
+    flex-direction: row;
+  }
+  .footer-horizonal-line{
+    background-color: gray;
+  
+  }
+  .horizonal-line-footer{
+    margin-top: 20px;
+  }
+  .footer-middle>img{
+    height: 15px;
+  }
+  .last-data{
+    margin: 20px 0px 12px 0px;
+  }
+  
+  .footer-last{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    font-size: 12px;
+    line-height: 50px;
+    text-align: center;
+  }
+  .footer-last>a{
+    color: #8DC63F;
+    text-decoration: none;
+  }
+  .footer-last>div>a>img{
+    width: 20px;
+  }
+  #go-top{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  #go-top>a:hover{
+    border-radius: 5px ;
+    background-color:#648e29;
+  }
+  #go-top>a>img{
+    width: 35px;
+    height: 40px;
+  }
+
+  
