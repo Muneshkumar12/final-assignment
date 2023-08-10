@@ -3,6 +3,13 @@
     margin: 0px;
     font-family: sans-serif;
 }
+#navbar{
+    height: 50px !important;
+    font-size: 17px !important;
+}
+.nav-item>a{
+    font-size: 14px !important;
+}
 #body{
     background-image: url(../images/Fotolia_121796367_L.d3000ba6.jpg);
     height: 100vh;
@@ -12,7 +19,7 @@
    margin: 0px;
 } 
 .background-data{
-    color: white;
+    color: white ;
     margin-top: 70px;
 }
 .background-data>h1{
@@ -23,6 +30,8 @@
 .background-data>p{
     font-size: 15px;
     line-height: 20px;
+    color: white ;
+
 }
 .para{
     display: flex;

@@ -21,7 +21,6 @@
     color: #8DC63F !important;
   }
   .dropdown-toggler{
-    font-weight: bold;
     font-size: 14px;
     color:rgb(34, 33, 33);
   }
@@ -88,73 +87,53 @@
     line-height: 48px;
     letter-spacing: 0;
 }
+/* head footer */
 .head-footer{
-    height: 50px;
+  background-color: #eaeaea;
+  height: 40px;
+}
+@media only screen and (max-width: 767px) {
+  .head-footer {
     background-color: #eaeaea;
-}
-#nav-data{
-    font-size: 17px !important;
-}
-.head-footer-data{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-.head-footer-data>button>a{
-    border: none;
-    text-decoration: none;
-    color: gray;
+    height: 60px ;
+  }
 }
 .head-footer-data>button{
-    border: none;
-    background: none;
-    margin: 10px 5px;
-    color: gray;
-}
-@media only screen and (max-width: 1200px) {
-    .head-footer-data{
-     display: flex;
-    justify-content: flex-start;
-    flex: 1;
-    }
-  }
-@media only screen and (max-width: 400px) {
-    .head-footer-data{
-    width: 100%;
-    }
-  }
-.head-footer-data-icon{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    background-color: #eaeaea;
-
-}
-.head-footer-data-icon>div>a>img:hover{
-    background-color: #8DC63F;
-}
-.head-footer-data-icon>div>a{
-    margin: 0px 5px;
-    width: 20px;
+  border: none;
+  background: none;
   color: gray;
-  text-decoration: none;
-  font-size: 20px;
+  font-size: 14px;
   font-weight: bold;
 }
-@media only screen and (max-width: 1200px) {
-    .head-footer-data-icon{
-     display: flex;
-    justify-content: flex-start;
-    }
+@media only screen and (max-width: 387px) {
+  .head-footer-data {
+   display: flex;
+   flex-direction: row;
   }
+}
+.head-footer-data>button:focus{
+  color: #8Dc63f;
+}
+.head-footer-data>button>a{
+  text-decoration: none;
+  color: gray;
+}
+.head-footer-data>button>a:hover{
+  color: #000;
+}
+.head-footer-data>a>img:hover{
+  color: #8Dc63f !important;
+}
+#head-footer-icon>a{
+  margin-right: 5px;
+}
+
 
   /* footer start */
   
   #footer{
     background-color: #252634;
-    color: white;
+    color: white !important;
     font-size: 12px;
    border: 2px #252634 solid;
    margin-top: 30px;
@@ -171,6 +150,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    color: white;
+   
   }
   .footer-data-1-1>div>img{
     height: 14px;
