@@ -1,0 +1,11 @@
+#navbar{
+    height: 80px !important;
+}
+#logo>img{
+    width: 200px !important;
+    height: 35px !important;
+    margin-left: 20px;
+}
+#nav-data{
+    font-size: 14px !important;
+}
