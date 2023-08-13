@@ -1,0 +1,19 @@
+#navbar{
+    height: 80px !important;
+}
+#logo>img{
+    width: 200px !important;
+    height: 35px !important;
+    margin-left: 20px;
+}
+#nav-data{
+    font-size: 14px !important;
+}
+.data-1{
+    margin-top: 50px;
+}
+.data-1>p{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+}

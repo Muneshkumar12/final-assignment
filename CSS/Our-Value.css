@@ -33,3 +33,8 @@
     width: 355.219px;
     height: 240px;
 }
+@media only screen and (max-width: 991px) {
+    .body-data-image>img {
+      width: 100%;
+    }
+  }

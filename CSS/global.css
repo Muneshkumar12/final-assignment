@@ -97,6 +97,9 @@
     height: 60px ;
   }
 }
+.head-footer-data{
+  margin-top: 7px;
+}
 .head-footer-data>button{
   border: none;
   background: none;

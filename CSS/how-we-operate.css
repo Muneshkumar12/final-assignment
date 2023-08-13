@@ -9,3 +9,25 @@
 #nav-data{
     font-size: 14px !important;
 }
+.data{
+    margin-top: 50px;
+}
+.data-1>p{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 30px;
+}
+.data-1>p>span{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #252634;
+}
+.data-1>h1{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

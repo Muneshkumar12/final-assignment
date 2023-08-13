@@ -9,3 +9,84 @@
 #nav-data{
     font-size: 14px !important;
 }
+.team-body{
+    margin-top: 50px;
+}
+.section-1{
+    border-bottom: 1px rgb(212, 206, 206) solid;
+    height: 624px;  
+}
+.principals{
+    /* border: 1px red solid; */
+    display: flex;
+    flex-direction: row;
+   
+}
+.principals>p{
+    width: 70px;
+    height: 3px;
+    background-color: #8Dc63f;
+    margin: 10px 15px 0px 16px;
+}
+.principals>h1{
+    font-size: 21px;
+    font-weight: 600;
+    color: #252634;
+}
+.professor{
+    /* border: 2px red solid; */
+    margin-top: 50px;
+
+}
+.professor>h1{
+    font-size: 14px;
+    font-weight: 700;
+    color: #62646c;
+}
+.professor>p{
+    /* border: 1px red solid; */
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #8A8C98;
+    height: 180px;
+    /* width: 780px; */
+}
+.professor-img>div{
+    margin-top: 40px;
+}
+.professor-img>div>img{
+    /* border: 1px red solid; */
+    height: 118.406px;
+    width: 118.406px;
+    border-radius: 100%;
+}
+/* section two start */
+.section-2{
+    border-bottom: 1px rgb(212, 206, 206) solid;
+    margin-top: 20px;
+    height: 624px;
+}
+.section-3{
+    border-bottom: 1px rgb(212, 206, 206) solid;
+    margin-top: 20px;
+    height: 312px;
+}
+.section-4{
+    border-bottom: 1px rgb(212, 206, 206) solid;
+    margin-top: 20px;
+    height: 580px;}
+.section-5{
+    border-bottom: 1px rgb(212, 206, 206) solid;
+    margin-top: 20px;
+    height: 312px;}
+.section-6{
+    border-bottom: 1px rgb(212, 206, 206) solid;
+    margin-top: 20px;
+    height: 312px;}
+.section-7{
+    border-bottom: 1px rgb(212, 206, 206) solid;
+    margin-top: 20px;
+    height: 312px;}
+
+   
