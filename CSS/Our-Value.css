@@ -13,8 +13,7 @@
     margin-top: 60px;
 }
 .body-data{
-    height: 194px;
-    margin-top: 20px;
+        margin-top: 20px;
 }
 .body-data>ul>li{
     color: #62648c !important;
@@ -23,7 +22,6 @@
     margin-left: -15px;
 }
 .body-data>p{
-    height: 150px;
     line-height: 28px;
     color: #8A8c98;
     font-size: 14px !important;
@@ -31,7 +29,6 @@
 }
 .body-data-image>img{
     width: 355.219px;
-    height: 240px;
 }
 @media only screen and (max-width: 991px) {
     .body-data-image>img {

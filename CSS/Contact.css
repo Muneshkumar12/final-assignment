@@ -1,0 +1,64 @@
+#navbar{
+    height: 80px !important;
+}
+#logo>img{
+    width: 200px !important;
+    height: 35px !important;
+    margin-left: 20px;
+}
+#nav-data{
+    font-size: 14px !important;
+}
+.body{
+    margin-top: 100px;
+}
+.row-1-data{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.row-1-data>h1{
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 48px;
+    color: #252634;
+}
+.row-1-data>p{
+    height: 2px ;
+    width: 70px;
+    background-color: #8Dc63f;
+}
+.row-2{
+    margin-top: 60px !important;
+}
+.row-2-data>p{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #8D8C98;
+}
+.row-3{
+    margin-top: 30px !important;
+}
+.contact-inf>h1{
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.contact-footer{
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+}
+.contact-head{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    color: black;
+}
+    
+.footer-data-1-1>h2{
+    color: black;
+}

@@ -104,8 +104,8 @@
   border: none;
   background: none;
   color: gray;
-  font-size: 14px;
-  font-weight: bold;
+  font-size: 12px;
+  font-weight: 700;
 }
 @media only screen and (max-width: 387px) {
   .head-footer-data {
@@ -153,7 +153,12 @@
     align-items: center;
     justify-content: center;
     color: white;
-   
+  }
+  .footer-data-1-1>h2{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    color: white;
   }
   .footer-data-1-1>div>img{
     height: 14px;
@@ -162,6 +167,11 @@
   .footer-middle{
     display: flex;
     flex-direction: row;
+  }
+  .USA{
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
   }
   .footer-horizonal-line{
     background-color: gray;

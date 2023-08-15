@@ -1,0 +1,380 @@
+#navbar{
+    height: 80px !important;
+}
+#logo>img{
+    width: 200px !important;
+    height: 35px !important;
+    margin-left: 20px;
+}
+#nav-data{
+    font-size: 14px !important;
+}
+
+.body-data>p{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #8A8C98;
+}
+.green-line{
+    background-color: #8Dc63f;
+    width: 70px;
+    height: 2px;
+    margin: auto;
+}
+.body{
+    margin-top: 50px;
+}
+
+/* 1 */
+
+.data-ware-house{
+    background-image: url(../images/our-expertise-1.7a34de08.jpg);
+    height: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity: 0.8;    */
+}
+.data-ware-house>div{
+    background-color: black;
+    opacity: 30%;
+    height: 260px;
+}
+.data-ware-house>div>a{
+    text-decoration: none;
+}
+.data-ware-house>div>a>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+
+.data-ware-house>div>p{
+    color: white;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+
+.business-inteligence{
+    background-image: url(../images/our-expertise-2.91341dc1.jpg);
+    height: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity: 0.9; */
+}
+.business-inteligence>div{
+    background-color: black;
+    opacity: 50%;
+    height: 260px;
+}
+.business-inteligence>div>a{
+    text-decoration: none;
+}
+.business-inteligence>div>a>h1{
+    /* color: white; */
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.business-inteligence>div>p{
+    /* color: #fff; */
+    color: white;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+
+.Data-science{
+    background-image: url(../images/our-expertise-3.af61c1e8.jpg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    /* opacity: 0.8;    */
+}
+.Data-science>div{
+    background-color: black;
+    opacity: 30%;
+    height: 260px;
+}
+.Data-science>div>a{
+    text-decoration: none;
+}
+.Data-science>div>a>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Data-science>div>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+/* 2 */
+.Business-value{
+    background-image: url(../images/our-expertise-4.64d97580.jpg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    /* opacity: 0.8; */
+}
+.Business-value>div{
+    background-color: black;
+    opacity: 30%;
+    height: 260px;
+}
+.Business-value>div>a{
+    text-decoration: none;
+}
+.Business-value>div>a>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Business-value>div>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+
+.Develop-and-run{
+    background-image: url(../images/our-expertise-5.e6276885.jpg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    /* opacity: 0.8; */
+}
+.Develop-and-run>div{
+    background-color: black;
+    opacity: 30%;
+    height: 260px;
+}
+.Develop-and-run>div>a{
+    text-decoration: none;
+}
+.Develop-and-run>div>a>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Develop-and-run>div>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+
+.Act-Measure{
+    background-image: url(../images/our-expertise-6.0eae52f0.jpg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    /* opacity: 0.8; */
+}
+.Act-Measure>div{
+    background-color: black;
+    opacity: 30%;
+    height: 260px;
+}
+.Act-Measure>div>a{
+    text-decoration: none;
+}
+.Act-Measure>div>a>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Act-Measure>div>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+/* 3 */
+.Stay-informed{
+    background-image: url(../images/our-expertise-7.7bb8055e.jpg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    /* opacity: 0.8; */
+}
+.Stay-informed>div{
+    background-color: black;
+    opacity: 30%;
+    height: 260px;
+}
+.Stay-informed>div>a{
+    text-decoration: none;
+}
+.Stay-informed>div>a>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.Stay-informed>div>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+
+.One-demand{
+    background-image: url(../images/our-expertise-8.ae82fbf9.jpg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+}
+.One-demand>div{
+    background-color: black;
+    opacity: 30%;
+    height: 260px;
+}
+.One-demand>div>a{
+    text-decoration: none;
+}
+.One-demand>div>a>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.One-demand>div>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+.improve-customer{
+    background-image: url(../images/our-expertise-9.dacd2688.jpg);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size: cover;
+    /* opacity: 0.8;    */
+}
+.improve-customer>div{
+    background-color: black;
+    opacity: 30%;
+    height: 260px;
+}
+.improve-customer>div>a{
+    text-decoration: none;
+}
+.improve-customer>div>a>h1{
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 50px 50px 0px 50px;
+}
+.improve-customer>div>p{
+    color: #fff;
+    font-weight: 300px;
+    font-size: 14px;
+    text-transform:capitalize;
+    padding: 0px 50px ;
+}
+/* .row-2-1{
+    background-image: url(../images/our-expertise-1.7a34de08.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 260px;
+}
+@media only screen and (max-width: 1199px) {
+    .row-2-1 {
+      width: 50%;
+    }
+  }
+.row-2-1>div{
+    padding: 50px 40px 62px 40px;
+   background-color: black;
+  opacity: 50%;
+}
+.row-2-1>div>a{
+    text-decoration: none;
+}
+.row-2-1>div>a>h1{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    color: white;  
+}
+.row-2-1>div>p{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    color: white;
+}
+.row-2-2{
+    background-image: url(../images/our-expertise-2.91341dc1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 260px;
+}
+.row-2-2>div{
+    padding: 47px;
+   background-color: black;
+  opacity: 50%;
+}
+.row-2-2>div>a{
+    text-decoration: none;
+}
+.row-2-2>div>a>h1{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    color: white;  
+}
+.row-2-2>div>p{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+    color: white;
+}
+
+
+@media only screen and (max-width: 1199px) {
+    .row-2-2 {
+      width: 50%;
+    }
+  }
+.row-2-3{
+    background-image: url(../images/our-expertise-3.af61c1e8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 260px;
+}
+@media only screen and (max-width: 1199px) {
+    .row-2-3 {
+      width: 50%;
+    }
+  } */
