@@ -6,6 +6,7 @@
 #navbar{
     height: 50px !important;
     font-size: 17px !important;
+    /* width: 50px !important; */
 }
 .nav-item>a{
     font-size: 14px !important;
@@ -17,37 +18,20 @@
    height: 100vh;
 }
 .data-1{
-    margin-top: 30px;
+    margin-top: 70px;
 }
 .data-1>div>h1{
     line-height: 50px;
     font-weight: 700;
     color: white ;
-    font-size: 30px;
+    font-size: 40px;
 }
 .data-1>div>p{
     font-size: 15px;
     line-height: 20px;
     color: white ;
 }
-/* .data-1>div{
-    border: 1px red solid;
-}
-.background-data{
-  
-}
-.background-data>h1{
-    
-    line-height: 50px;
-    font-weight: 700;
-    color: white ;
-    font-size: 30px !important;
-}
-.background-data>p{
-    font-size: 15px;
-    line-height: 20px;
-    color: white ;
-} */
+
 .para{
     display: flex;
     align-items: center;
